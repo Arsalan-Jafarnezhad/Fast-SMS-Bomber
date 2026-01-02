@@ -1,1 +1,7 @@
+# License Key
+
 py-machineid
+
+# HTTP Request
+
+httpx
